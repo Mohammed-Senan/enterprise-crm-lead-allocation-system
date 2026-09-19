@@ -54,7 +54,7 @@ A secure, database-driven Customer Relationship Management (CRM) platform engine
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Mohammed-Senan/enterprise-crm-lead-allocation-system.git](https://github.com/Mohammed-Senan/enterprise-crm-lead-allocation-system.git)
+git clone https://github.com/Mohammed-Senan/enterprise-crm-lead-allocation-system.git
 cd enterprise-crm-lead-allocation-system
 ```
 
